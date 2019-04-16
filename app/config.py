@@ -1,5 +1,5 @@
-import boto3
-
+#import boto3
+import os
 SECRET_KEY = os.environ['SECRET_KEY']
 URL = os.environ['POSTGRES_URL']
 DEV = os.environ['DEV']
