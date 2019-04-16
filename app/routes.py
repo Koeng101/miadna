@@ -7,7 +7,7 @@ from .config import PREFIX
 from .config import LOGIN_KEY
 #from .config import SPACES
 #from .config import BUCKET        
-from dna_designer import moclo, codon
+#from dna_designer import moclo, codon
 
 #from .sequence import sequence
 
